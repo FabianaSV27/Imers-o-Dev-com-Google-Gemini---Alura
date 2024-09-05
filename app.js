@@ -1,1 +1,3 @@
-console.log("Genshin Impect")
+console.log(dados);
+  
+ 
